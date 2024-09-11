@@ -23,8 +23,13 @@ SQL (PostgresSQL) - Data Analysis
 1. The total amount of debt that is owed by the countries listed in the dataset: 3079734509130.5$
 2. The country owns the highest debt: China with 285793486000$
 3. The average amount of debt owed by countries across different debt indicators: ![image](https://github.com/user-attachments/assets/59cf1524-3d82-4033-af0c-9641211d7b10)
-4. The most common debt indicator:![image](https://github.com/user-attachments/assets/eaaead77-5214-49ce-8f0b-ae4844056abe)
+4. The most common debt indicator:
+
+ ![image](https://github.com/user-attachments/assets/eaaead77-5214-49ce-8f0b-ae4844056abe)
+ 
 5. The highest debt amount of principal repayments: China with 96218600000$
-6. Top 10 country with highest debt for a single indicator: ![image](https://github.com/user-attachments/assets/df9ff66a-363a-41d2-b533-4d8865ef19f7)
+6. Top 10 country with highest debt for a single indicator:
+
+![image](https://github.com/user-attachments/assets/df9ff66a-363a-41d2-b533-4d8865ef19f7)
 
 
